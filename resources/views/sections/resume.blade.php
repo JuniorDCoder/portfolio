@@ -28,6 +28,30 @@
             <p><em>University of Bamenda, Cameroon</em></p>
             <p>Currently pursuing a degree in Computer Engineering, focusing on software development and system design.</p>
           </div>
+            <div class="resume-item">
+                <h4>Anticipated Skills and Interests</h4>
+                <h5>Present - Future</h5>
+                <p><em>Self-Directed Learning</em></p>
+                <p>
+                <ul>
+                    <li>Actively exploring the field of Internet of Things (IoT), with a keen interest in smart devices and home automation systems.</li>
+                    <li>Developing a strong foundation in Artificial Intelligence (AI), focusing on machine learning and data analysis.</li>
+                    <li>Passionate about leveraging technology to solve complex problems and improve the quality of life.</li>
+                    <li>Committed to continuous learning and staying updated with the latest technological trends.</li>
+                </ul>
+                </p>
+            </div>
+            <div class="resume-item">
+                <h4>Personal Qualities</h4>
+                <p>
+                <ul>
+                    <li>Strong problem-solving skills and ability to think creatively.</li>
+                    <li>Excellent communication and teamwork skills.</li>
+                    <li>Highly motivated and committed to continuous learning.</li>
+                    <li>Ability to handle multiple tasks and work under pressure.</li>
+                </ul>
+                </p>
+            </div>
         </div>
         <div class="col-lg-6">
           <h3 class="resume-title">Professional Experience</h3>
