@@ -21,7 +21,7 @@
                 <div class="col-lg-6">
                     <ul>
                         <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>30 September 2004</span></li>
-                        <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>juniorngu.traitz.tech</span></li>
+                        <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="{{route('home.index')}}">{{config('app.url')}}</a></span></li>
                         <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+1237 677 802 114</span></li>
                         <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Bamenda, Cameroon</span></li>
                     </ul>
