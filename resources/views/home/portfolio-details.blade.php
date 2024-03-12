@@ -85,8 +85,7 @@
   </main><!-- End #main -->
 
   <div class="credits">
-
-    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+    Designed by <a href="">Foryoung Junior N.</a>
   </div>
 
   <!-- Vendor JS Files -->

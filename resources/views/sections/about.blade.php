@@ -28,7 +28,7 @@
                 </div>
                 <div class="col-lg-6">
                     <ul>
-                        <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>19</span></li>
+                        <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>20</span></li>
                         <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor's in Computer Engineering</span></li>
                         <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>foryoungjuniorngu@gmail.com</span></li>
                         <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
