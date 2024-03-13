@@ -55,21 +55,6 @@
             </div>
             </div>
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-                <div class="icon-box" data-aos="fade-up">
-                    <div class="icon"><i class="bx bx-code"></i></div>
-                    <h4><a href="">Frontend Development</a></h4>
-                    <p>Creating interactive and user-friendly web interfaces using modern web technologies.</p>
-                </div>
-            </div>
-            <!-- Add more services here -->
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                    <div class="icon"><i class="bx bx-database"></i></div>
-                    <h4><a href="">Database Management</a></h4>
-                    <p>Designing, implementing, and managing databases to store, organize, and access data efficiently.</p>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                     <div class="icon"><i class="bx bx-mobile"></i></div>
                     <h4><a href="">Mobile App Development</a></h4>
