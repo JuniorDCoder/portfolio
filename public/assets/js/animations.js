@@ -37,3 +37,20 @@ document.addEventListener("DOMContentLoaded", function () {
     // Add scroll event listener to trigger animation
     window.addEventListener("scroll", animateIfInView);
 });
+
+
+// Social Icons
+
+const icons = document.querySelectorAll('.animate-icon');
+
+icons.forEach(icon => {
+    icon.addEventListener('mouseover', () => {
+        icon.style.animation = 'bounce 0.5s';
+    });
+
+    icon.addEventListener('mouseout', () => {
+        icon.style.animation = 'rotation 2s infinite linear';
+    });
+});
+
+

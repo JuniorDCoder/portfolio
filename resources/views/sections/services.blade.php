@@ -55,6 +55,28 @@
             </div>
             </div>
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                <div class="icon-box">
+                    <div class="icon"><i class="bx bx-blockchain"></i></div>
+                    <h4><a href="">Blockchain Development</a></h4>
+                    <p>Developing secure and efficient blockchain solutions for various industries.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                <div class="icon-box">
+                    <div class="icon"><i class="bx bx-data"></i></div>
+                    <h4><a href="">Data Analysis</a></h4>
+                    <p>Providing data analysis services to help businesses make data-driven decisions.</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                <div class="icon-box">
+                    <div class="icon"><i class="bx bx-brain"></i></div>
+                    <h4><a href="">AI Development</a></h4>
+                    <p>Developing intelligent systems using machine learning and artificial intelligence techniques.</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                     <div class="icon"><i class="bx bx-mobile"></i></div>
                     <h4><a href="">Mobile App Development</a></h4>

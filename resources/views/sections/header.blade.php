@@ -18,12 +18,12 @@
         <i class="bi bi-list mobile-nav-toggle"></i>
     </nav>
 
-      <div class="social-links">
-        <a href="https://x.com/D_Coderr" class="twitter"><i class="bi bi-twitter-x"></i></a>
-        <a href="https://www.facebook.com/moffor.juniorpraise" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="https://www.instagram.com/juniordcoder" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="https://www.linkedin.com/in/juniordcoder" class="linkedin"><i class="bi bi-linkedin"></i></a>
-      </div>
+    <div class="social-links">
+        <a href="https://x.com/D_Coderr" class="twitter p-4"><i class="bi bi-twitter-x animate-icon"></i></a>
+        <a href="https://www.facebook.com/moffor.juniorpraise" class="facebook p-4"><i class="bi bi-facebook animate-icon"></i></a>
+        <a href="https://www.instagram.com/juniordcoder" class="instagram p-4"><i class="bi bi-instagram animate-icon"></i></a>
+        <a href="https://www.linkedin.com/in/juniordcoder" class="linkedin p-4"><i class="bi bi-linkedin animate-icon"></i></a>
+    </div>
 
     </div>
   </header>
