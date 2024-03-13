@@ -67,3 +67,17 @@ h2 {
 .popup.animated {
     animation: popupAnimation 1s ease infinite;
 }
+
+@media screen and (max-width: 600px) {
+    .popup {
+        min-width: 100px;
+        margin: auto;
+        padding: 8px 12px;
+        top: -20px;
+       right: calc(100% + 10px); /* Adjust this value as needed */
+    }
+}
+
+
+/*Services*/
+
