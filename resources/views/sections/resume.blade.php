@@ -54,23 +54,25 @@
             </div>
         </div>
         <div class="col-lg-6">
-          <h3 class="resume-title">Professional Experience</h3>
-            <div class="resume-item">
+            <h3 class="resume-title">Professional Experience</h3>
+            <div class="resume-item company-item">
                 <h4>Co-founder & CTO</h4>
                 <h5>Present</h5>
                 <p><em><a href="https://traitz.tech" target="_blank">Traitz Tech</a>, Bambili, Bamenda, Cameroon</em></p>
+                <div class="popup">Hey! Cool Right?</div>
                 <p>
-                <ul>
-                <li>Co-founded Traitz Tech, a tech startup focusing on innovative software solutions.</li>
-                <li>Leading the tech team, overseeing all technical aspects of the company, and working closely with the team to create and implement tech solutions.</li>
-                <li>Responsible for strategic planning, quality assurance, and coordinating IT professionals and projects.</li>
-                </ul>
+                    <ul>
+                        <li>Co-founded Traitz Tech, a tech startup focusing on innovative software solutions.</li>
+                        <li>Leading the tech team, overseeing all technical aspects of the company, and working closely with the team to create and implement tech solutions.</li>
+                        <li>Responsible for strategic planning, quality assurance, and coordinating IT professionals and projects.</li>
+                    </ul>
                 </p>
             </div>
-            <div class="resume-item">
+            <div class="resume-item company-item">
                 <h4>Co-founder & Full Stack Developer</h4>
                 <h5>Present</h5>
                 <p><em><a href="https://sidecedu.com" target="_blank">Sidec</a>, Kigali, Rwanda</em></p>
+                <div class="popup">Hey! Cool Right?</div>
                 <p>
                 <ul>
                 <li>Co-founded Sidec, an educational institution aimed at helping students succeed.</li>
@@ -79,10 +81,11 @@
                 </ul>
                 </p>
             </div>
-            <div class="resume-item">
+            <div class="resume-item company-item">
                 <h4>Full Stack Developer</h4>
                 <h5>Present</h5>
                 <p><em><a href="https://elifesaver.online" target="_blank">E Life Saver</a>, Up Station, Bamenda, Cameroon</em></p>
+                <div class="popup">Hey! Cool Right?</div>
                 <p>
                 <ul>
                 <li>Developing full-stack solutions for E Life Saver, a health project aimed at improving the process of blood donation and blood appeal.</li>
@@ -91,10 +94,11 @@
                 </ul>
                 </p>
             </div>
-            <div class="resume-item">
+            <div class="resume-item company-item">
                 <h4>IT Personnel</h4>
                 <h5>Present</h5>
                 <p><em><a href="https://urega.org" target="_blank">Urega Foundation</a>, The Netherlands</em></p>
+                <div class="popup">Hey! Cool Right?</div>
                 <p>
                 <ul>
                 <li>Providing IT support and solutions for the Urega Foundation, an NGO aimed at giving grants to underprivileged African students.</li>
@@ -103,10 +107,11 @@
                 </ul>
                 </p>
             </div>
-            <div class="resume-item">
+            <div class="resume-item company-item">
                 <h4>Full Stack Developer</h4>
                 <h5>2021 - 2022</h5>
                 <p><em><a href="https://mtgconsulting.tech" target="_blank">MTG Consulting</a>, UK</em></p>
+                <div class="popup">Hey! Cool Right?</div>
                 <p>
                 <ul>
                 <li>Served as a full-stack developer, contributing to various projects and solutions.</li>

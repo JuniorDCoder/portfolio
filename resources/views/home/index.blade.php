@@ -22,6 +22,7 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
   <link rel="stylesheet" href="{{asset('assets/css/animations.css')}}">
+
 </head>
 
 
@@ -54,6 +55,7 @@
   <div class="credits">
     Designed by <a href="">Foryoung Junior N.</a>
   </div>
+
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
