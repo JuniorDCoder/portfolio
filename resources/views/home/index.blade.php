@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Foryoung Junior Ngu - Computer Engineer</title>
+  <title>Foryoung Junior Ngu</title>
   <meta name="description" content="Foryoung Junior Ngu - Computer Engineer specializing in [Backend, PHP, Vue, Fullstack, software]">
   <meta name="keywords" content="Foryoung Junior Ngu, Computer Engineer, [Tech, Bambili, NAHPI, Uba]">
 
@@ -21,6 +21,35 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
+  <style>
+    @keyframes example {
+        0% {color: red;}
+        25% {color: yellow;}
+        50% {color: white;}
+        75% {color: green;}
+        100% {color: red;}
+    }
+
+    h1 a {
+        animation-name: example;
+        animation-duration: 4s;
+        animation-iteration-count: infinite;
+    }
+
+    h2 {
+        animation: glow 2s ease-in-out infinite alternate;
+    }
+
+    @keyframes glow {
+        from {
+            text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff0000, 0 0 40px #ff0000;
+        }
+
+        to {
+            text-shadow: 0 0 20px #ff0000, 0 0 30px #ff0000, 0 0 40px #ff0000, 0 0 50px #ff0000, 0 0 60px #ff0000;
+        }
+    }
+</style>
 </head>
 
 
@@ -64,6 +93,17 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
+<script>
+    window.onload = function() {
+        var typed = new Typed('#typed', {
+            strings: ["Foryoung Junior N."],
+            typeSpeed: 100,
+            backSpeed: 50,
+            loop: true
+        });
+    }
+</script>
 
 </body>
 
