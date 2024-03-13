@@ -3,11 +3,10 @@
 
 <head>
   <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>Foryoung Junior N.</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Foryoung Junior Ngu - Computer Engineer</title>
+  <meta name="description" content="Foryoung Junior Ngu - Computer Engineer specializing in [Backend, PHP, Vue, Fullstack, software]">
+  <meta name="keywords" content="Foryoung Junior Ngu, Computer Engineer, [Tech, Bambili, NAHPI, Uba]">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -22,8 +21,8 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-
 </head>
+
 
 <body>
 
