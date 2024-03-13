@@ -6,7 +6,7 @@
         <p>My Services</p>
       </div>
 
-      <div class="row">
+        <div class="row">
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box">
                 <div class="icon"><i class="bx bx-code"></i></div>
@@ -59,6 +59,21 @@
                     <div class="icon"><i class="bx bx-mobile"></i></div>
                     <h4><a href="">Mobile App Development</a></h4>
                     <p>Building cross-platform and native mobile applications for iOS and Android platforms.</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                <div class="icon-box">
+                    <div class="icon"><i class="bx bx-cloud"></i></div>
+                    <h4><a href="">Cloud Services</a></h4>
+                    <p>Providing cloud-based solutions, including deployment, monitoring, and scaling of applications.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                <div class="icon-box">
+                    <div class="icon"><i class="bx bx-security"></i></div>
+                    <h4><a href="">Cybersecurity</a></h4>
+                    <p>Implementing security measures to protect systems and data from cyber threats.</p>
                 </div>
             </div>
 
