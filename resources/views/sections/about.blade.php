@@ -110,9 +110,9 @@
           </div>
 
           <div class="progress">
-            <span class="skill">JavaScript <i class="val">75%</i></span>
+            <span class="skill">JavaScript <i class="val">90%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
           <div class="progress">
@@ -147,17 +147,19 @@
           </div>
 
           <div class="progress">
-            <span class="skill">Vue JS <i class="val">60%</i></span>
-            <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
-          </div>
-          <div class="progress">
             <span class="skill">Tailwind CSS<i class="val">90%</i></span>
             <div class="progress-bar-wrap">
               <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
+
+          <div class="progress">
+            <span class="skill">Vue JS <i class="val">60%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+
           <div class="progress">
             <span class="skill">.Net <i class="val">50%</i></span>
             <div class="progress-bar-wrap">
