@@ -1,4 +1,4 @@
-<h2 align="center">iPortfolio - Bootstrap Portfolio Websites Template</h2>
+<!-- <h2 align="center">iPortfolio - Bootstrap Portfolio Websites Template</h2>
 
 <p>It's easy to make a static portfolio website but if you want to add, create, update, delete and track your portfolio, service then laravel can make it outstanding.</p>
 
@@ -32,4 +32,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
